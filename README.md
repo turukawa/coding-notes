@@ -7,6 +7,7 @@ References in the notebooks will usually explain if any Python packages are requ
 - Initial planning for Elasticsearch prior to coding
 - Splitting Twitter long-tweets into human-readable lengths (i.e. not simply splitting at 280 characters)
 - Importing Open Ownership beneficial company ownership register into Neo4j
+- Infection régionale française avec le nouveau coronavirus (SRAS-CoV-2), COVID-19
 
 ## Licence
 [BSD 3](LICENSE)
